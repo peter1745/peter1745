@@ -19,7 +19,7 @@
 I am a Software Engineer from Sweden, and I mainly work on lower level systems for game engines.
 
 - 💼 I currently work as a game engine developer at [Studio Cherno](https://github.com/StudioCherno).
-- ⚡ I'm currently working on my own physics engine, Fission, during my spare time.
+- ⚡ I'm currently working on my own game engine Yuki as well as a git extension called "gitf"
 - ☕ I love coffee, and will become a cave gremlin if I can't have it.
 - 🎮 I've participated in the Ludum Dare Game Jam twice, and I'll be participating in Ludum Dare 53 this April.
 
